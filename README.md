@@ -21,7 +21,7 @@ Before using MetaDigger, ensure you have the following installed:
 To use MetaDigger, clone this repository or download the script directly.
 
 ```bash
-git clone https://github.com/yourusername/metadigger.git
+git clone https://github.com/xtokram/metadigger.git
 cd metadigger
 chmod +x metadigger.sh
 ```
@@ -58,7 +58,3 @@ Contributions to MetaDigger are welcome! Feel free to fork the repository, make 
 ## License
 
 MetaDigger is released under the MIT License. See the `LICENSE` file in the repository for more details.
-
----
-
-Remember to replace `https://github.com/yourusername/metadigger.git` with the actual URL of your GitHub repository where MetaDigger is hosted. This `.md` file provides a clear and concise description of the script, its usage, and other relevant information.
