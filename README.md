@@ -54,7 +54,3 @@ This command will search `example.com` for PDF files, download them, and extract
 ## Contributing
 
 Contributions to MetaDigger are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-
-MetaDigger is released under the MIT License. See the `LICENSE` file in the repository for more details.
